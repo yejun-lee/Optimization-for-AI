@@ -1,3 +1,7 @@
+This repository is for the team project of the Optimization for AI course.
+
+Team members: Yejun Lee, Sanghoon Shin, Chan Jang, Seojun Kim
+
 **Here are the commands to install required modules**
 ```markdown
 conda create -n optim python=3.8
@@ -29,3 +33,5 @@ python train.py --gpu 6 --model EfficientNet --save_path weights/A2GradExp --opt
 
 ...
 ```
+
+Set your desired model, optimizer, and training parameters, and run the code.
